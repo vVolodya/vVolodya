@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying at [Elbrus Bootcamp](https://elbrusboot.camp/)
 - 🌱 I’m currently learning PostgreSQL
-- 💬 Ask me about anything you like
+- 💡 Ask me about anything you like
 - ⚡ Fun fact: a cat has 32 muscles in each ear
 
 ### 📚 My Skills Stack
