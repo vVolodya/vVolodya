@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Vladimir! Welcome to my GitHub page!
+header.png
 
 ### Have fun!
 
