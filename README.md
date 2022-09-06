@@ -19,7 +19,7 @@ Right now I am focusing on frontend development, so here is a list of technologi
 
 ### 😸 Some random joke
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=watermelon)
 
 
 
