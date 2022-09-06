@@ -6,7 +6,6 @@
 - ⚡ Fun fact: A cat has 32 muscles in each ear.
 
 ### Some random joke
-- 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
