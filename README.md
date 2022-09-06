@@ -1,6 +1,5 @@
 ![Greeting](https://github.com/vVolodya/vVolodya/blob/main/header.png?raw=true)
-
-## Have fun!
+### Have fun!
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
