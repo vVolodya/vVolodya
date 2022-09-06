@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My name is Vladimir! Welcome to my GitHub page!
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **vVolodya/vVolodya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
