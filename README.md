@@ -1,5 +1,7 @@
 ### Hi there 👋 My name is Vladimir! Welcome to my GitHub page!
 
+### Have fun!
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
