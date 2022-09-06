@@ -1,4 +1,4 @@
-![Greeting](https://github.com/vVolodya/vVolodya/blob/main/header.png?raw=true)
+![Greeting](header1-01.png)
 
 - 🔭 I’m currently studying at [Elbrus Bootcamp](https://elbrusboot.camp/)
 - 🌱 I’m currently learning PostgreSQL
