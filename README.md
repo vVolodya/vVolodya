@@ -6,15 +6,19 @@
 - ⚡ Fun fact: a cat has 32 muscles in each ear
 
 ### 📚 My Skills Stack
+
 Right now I am focusing on frontend development, so here is a list of technologies I use or have some experience with
+
 [![My Skills](https://skillicons.dev/icons?i=js,postgres,html,css,tailwind,bash,git,github&perline=10)](https://skillicons.dev)
 
 ### 💬 Feel free to contact me
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vladimir.yevseev@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vVladimirEvseev)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+79996144871)
 
 ### 😸 Some random joke
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
