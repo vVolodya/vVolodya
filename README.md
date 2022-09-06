@@ -6,7 +6,7 @@
 - ⚡ Fun fact: a cat has 32 muscles in each ear
 
 ### My Skills Stack
-[![My Skills](https://skillicons.dev/icons?i=js,postgres,html,css,tailwind,bash,git,github,rollupjs&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,postgres,html,css,tailwind,bash,git,github&perline=10)](https://skillicons.dev)
 
 ### 💬 Feel free to contact me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vladimir.yevseev@gmail.com)
