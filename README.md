@@ -1,7 +1,7 @@
 ![Greeting](header1-01.png)
 
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF7F50&center=true&lines=I'm+always+learning+new+things;And+looking+for+new+opportunities;Welcome+aboard+and+have+fun!)](https://git.io/typing-svg)
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF7F50&center=true&lines=I'm+always+learning+new+things;And+looking+for+new+opportunities;Welcome+aboard+and+have+fun!"></a>
 </p>
 
 - 🔭 I’m currently studying at [Elbrus Bootcamp](https://elbrusboot.camp/)
