@@ -9,7 +9,7 @@
 
 Right now I am focusing on frontend development, so here is a list of technologies I use or have some experience with
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,postgres,bash,git,github&perline=10)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,postgres,bash,git,github&perline=10)](skillicons.dev)
 
 ### 💬 Feel free to contact me
 
