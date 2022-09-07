@@ -1,5 +1,7 @@
 ![Greeting](header1-01.png)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF7F50&width=435&lines=I'm+always+learning+new+things;And+looking+for+new+opportunities;Welcome+aboard+and+have+fun!)](https://git.io/typing-svg)
+
 - 🔭 I’m currently studying at [Elbrus Bootcamp](https://elbrusboot.camp/)
 - 🌱 I’m currently learning PostgreSQL
 - 💡 Ask me about anything you like
