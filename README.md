@@ -1,4 +1,4 @@
-![Greeting](header1-01.png)
+![Greeting](header3-01.png)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF7F50&center=true&lines=I'm+always+learning+new+things;And+looking+for+new+opportunities;Welcome+aboard+and+have+fun!"></a>
