@@ -4,8 +4,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF7F50&center=true&lines=I'm+always+learning+new+things;And+looking+for+new+opportunities;Welcome+aboard+and+have+fun!"></a>
 </p>
 
-- 🔭 I’m currently looking for a job opportunity
-- 🌱 I’m currently learning TypeScript, NextJS
+- 🚀 I’m actively working on [GeekConsole](https://geekconsole.app/) with my elder brother [Anton](https://github.com/slayoffer/)
+- 🌱 I’m currently learning **TypeScript, NextJS**
 - 💡 Ask me about anything you like
 - ⚡ Fun fact: a cat has 32 muscles in each ear
 
