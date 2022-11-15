@@ -10,7 +10,7 @@
 - 💡 Ask me about anything you like
 - ⚡ Fun fact: a cat has 32 muscles in each ear
 
-### 📚 My Skills Stack
+### 📚 My Tech Stack
 
 Right now I am focusing on frontend development, so here is a list of technologies I use or have some experience with
 
