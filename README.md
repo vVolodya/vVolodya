@@ -14,9 +14,9 @@
 
 Right now I am focusing on frontend development, so here is a list of technologies I use or have some experience with
 
-Frontend: JavaScript, React, Redux (RTK), HTML5, CSS3, Tailwind, Bootstrap.
-Backend: NodeJS, Express, PostgreSQL, Sequelize ORM, Supabase, Firebase.
-Other: Git, Jest, SaaS, Cloud Services.
+- Frontend: JavaScript, React, Redux (RTK), HTML5, CSS3, Tailwind, Bootstrap.
+- Backend: NodeJS, Express, PostgreSQL, Sequelize ORM, Supabase, Firebase.
+- Other: Git, Jest, SaaS, Cloud Services.
 
 ### 💬 Feel free to contact me
 
