@@ -14,7 +14,9 @@
 
 Right now I am focusing on frontend development, so here is a list of technologies I use or have some experience with
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,redux,postgres,express,nodejs,bash,git,github&perline=16)](https://skillicons.dev)
+Frontend: JavaScript, React, Redux (RTK), HTML5, CSS3, Tailwind, Bootstrap.
+Backend: NodeJS, Express, PostgreSQL, Sequelize ORM, Supabase, Firebase.
+Other: Git, Jest, SaaS, Cloud Services.
 
 ### 💬 Feel free to contact me
 
