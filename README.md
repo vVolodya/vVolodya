@@ -5,8 +5,6 @@
 </p>
 
 - 🚀 I’m actively working on [GeekConsole](https://geekconsole.app/) with my elder brother [Anton](https://github.com/slayoffer/)
-- 🌱 I’m currently learning **TypeScript, NextJS**
-- 💯 Check out my portfolio website -> https://vladimirevseev.net
 - 💡 Ask me about anything you like
 - ⚡ Fun fact: a cat has 32 muscles in each ear
 
@@ -15,8 +13,7 @@
 Right now I am focusing on frontend development, so here is a list of technologies I use or have some experience with
 
 - Frontend: JavaScript, TypeScript, React, Redux (RTK), HTML5, CSS3, Tailwind, Bootstrap.
-- Backend: NodeJS, Express, PostgreSQL, Sequelize ORM, Supabase, Firebase.
-- Other: Git, Jest, SaaS, Cloud Services.
+- Backend: NodeJS, Express, PostgreSQL, Supabase, Firebase.
 
 ### 💬 Feel free to contact me
 
