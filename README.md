@@ -1,20 +1,3 @@
-![Greeting](header1-01.png)
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF7F50&center=true&lines=I'm+always+learning+new+things;And+looking+for+new+opportunities;Welcome+aboard+and+have+fun!"></a>
-</p>
-
-- 🚀 I’m actively working on [GeekConsole](https://geekconsole.app/) with my elder brother [Anton](https://github.com/slayoffer/)
-- 💡 Ask me about anything you like
-- ⚡ Fun fact: a cat has 32 muscles in each ear
-
-### 📚 My Tech Stack
-
-Right now I am focusing on frontend development, so here is a list of technologies I use or have some experience with
-
-- Frontend: JavaScript, TypeScript, React, Redux (RTK), HTML5, CSS3, Tailwind, Bootstrap.
-- Backend: NodeJS, Express, PostgreSQL, Supabase, Firebase.
-
 ### 💬 Feel free to contact me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vladimir.yevseev@gmail.com)
